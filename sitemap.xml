@@ -2,9 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://winsolut.com/second/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://winsolut.com/first_post/</loc><lastmod>2022-09-16T23:30:51-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://winsolut.com/posts/</loc><lastmod>2022-09-16T23:30:51-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://winsolut.com/about/</loc><lastmod>2022-09-16T23:36:34-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://winsolut.com/about/</loc><lastmod>2022-09-17T12:32:57-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://winsolut.com/</loc><lastmod>2022-09-16T23:30:51-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://winsolut.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://winsolut.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://winsolut.com/categories/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://winsolut.com/tags/configuration/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://winsolut.com/categories/documentation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://winsolut.com/tags/installation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://winsolut.com/tags/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

@@ -5,6 +5,14 @@
         <description>All Posts | Win Solutions</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>profov@gmail.com (Oleksandr Ostapchuk)</managingEditor>
             <webMaster>profov@gmail.com (Oleksandr Ostapchuk)</webMaster><lastBuildDate>Wed, 14 Sep 2022 15:13:13 -0700</lastBuildDate><atom:link href="https://winsolut.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Theme Documentation - Basics</title>
+    <link>https://winsolut.com/second/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Ostapchuk Oleksandr</author>
+    <guid>https://winsolut.com/second/</guid>
+    <description><![CDATA[<p>Discover what the Hugo - <strong>LoveIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
+</item>
+<item>
     <title>Family budget</title>
     <link>https://winsolut.com/first_post/</link>
     <pubDate>Wed, 14 Sep 2022 15:13:13 -0700</pubDate>

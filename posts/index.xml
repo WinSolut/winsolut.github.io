@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Win Solutions</title>
+        <link>https://winsolut.com/posts/</link>
+        <description>All Posts | Win Solutions</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>profov@gmail.com (Oleksandr Ostapchuk)</managingEditor>
+            <webMaster>profov@gmail.com (Oleksandr Ostapchuk)</webMaster><lastBuildDate>Wed, 14 Sep 2022 15:13:13 -0700</lastBuildDate><atom:link href="https://winsolut.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Family budget</title>
+    <link>https://winsolut.com/first_post/</link>
+    <pubDate>Wed, 14 Sep 2022 15:13:13 -0700</pubDate>
+    <author>Oleksandr Ostapchuk</author>
+    <guid>https://winsolut.com/first_post/</guid>
+    <description><![CDATA[Test Hi this is tested site
+JUST UPDATE ]]></description>
+</item>
+</channel>
+</rss>

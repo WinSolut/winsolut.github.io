@@ -8,15 +8,15 @@
     <language>en</language>
     <managingEditor>profov@gmail.com (Oleksandr Ostapchuk)</managingEditor>
     <webMaster>profov@gmail.com (Oleksandr Ostapchuk)</webMaster>
-    <lastBuildDate>Fri, 02 Aug 2019 11:04:49 +0800</lastBuildDate><atom:link href="https://winsolut.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Sep 2022 15:13:13 -0700</lastBuildDate><atom:link href="https://winsolut.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About LoveIt</title>
+      <title>Family budget</title>
       <link>https://winsolut.com/about/about/</link>
-      <pubDate>Fri, 02 Aug 2019 11:04:49 +0800</pubDate>
+      <pubDate>Wed, 14 Sep 2022 15:13:13 -0700</pubDate>
       <author>profov@gmail.com (Oleksandr Ostapchuk)</author>
       <guid>https://winsolut.com/about/about/</guid>
-      <description>:(far fa-kiss-wink-heart fa-fw): LoveIt is a clean, elegant but advanced blog theme for Hugo developed by &amp;#8201;Dillon.
-It is based on the original LeaveIt Theme and KeepIt Theme. Hugo Theme LoveIt Features Performance and SEO :(fas fa-rocket fa-fw): Optimized for performance: [99]/[100] on mobile and [100]/[100] on desktop in Google PageSpeed Insights :(fab fa-searchengin fa-fw): Optimized SEO performance with a correct SEO SCHEMA based on JSON-LD :(fab fa-google fa-fw): Google Analytics supported :(far fa-chart-bar fa-fw): Fathom Analytics supported :(fas fa-chart-column fa-fw): Plausible Analytics supported :(fab fa-yandex-international fa-fw): Yandex Metrica supported :(fas fa-sitemap fa-fw): Search engine verification supported (Google, Bind, Yandex and Baidu) :(fas fa-tachometer-alt fa-fw): CDN for third-party libraries supported :(fas fa-cloud-download-alt fa-fw): Automatically converted images with Lazy Load by lazysizes Appearance and Layout :(fas fa-mobile-screen fa-fw): [Desktop]/[Mobile] responsive layout :(fas fa-circle-half-stroke fa-rotate-180 fa-fw): [Light]/[Dark] mode :(fas fa-layer-group fa-fw): Globally consistent design language :(fas fa-ellipsis-h fa-fw): Pagination supported :(far fa-list-alt fa-fw): Easy-to-use and self-expanding table of contents :(fas fa-language fa-fw): Multilanguage supported and i18n ready :(fab fa-css3-alt fa-fw): Beautiful CSS animation Social and Comment Systems :(far fa-user fa-fw): Gravatar supported by Gravatar :(fas fa-user-circle fa-fw): Local Avatar supported :(far fa-id-card fa-fw): Up to 73 social links supported :(fas fa-share-square fa-fw): Up to 24 share sites supported :(far fa-comment fa-fw): Disqus comment system supported by Disqus :(far fa-comment-dots fa-fw): Gitalk comment system supported by Gitalk :(far fa-comment-alt fa-fw): Valine comment system supported by Valine :(far fa-comments fa-fw): Facebook comments system supported by Facebook :(fas fa-comment fa-fw): Telegram comments system supported by Comments :(fas fa-comment-dots fa-fw): Commento comment system supported by Commento :(fas fa-comment-alt fa-fw): utterances comment system supported by utterances :(fas fa-comments fa-fw): giscus comment system supported by giscus Extended Features :(fas fa-search fa-fw): Search supported by Lunr.</description>
+      <description>Test Tekst Hi this is tested site
+JUST UPDATE </description>
     </item>
     
   </channel>
